@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ShanaazAhamed
 - 👀 I’m interested in coding 
-- 🌱 I’m currently learning Computer Science
+- 🌱 I’m currently a Computer Science and Engineering  undergraduate.
 - 📫 How to reach me 
   - 📧 shanaaz.19@cse.mrt.ac.lk
 
