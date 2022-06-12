@@ -10,7 +10,7 @@
 </div>
 
 <details>
-  <summary>☎️ contact me</summary>
+  <summary>☎️ Contact Me</summary>
 <div>
   <samp>
     <h2 align="center">😎 you can reach me by:</h2>
@@ -57,7 +57,7 @@
 <details>
   <summary>🧮 about</summary>
 <div>
-<h2 align="center">🧮 About this Account</h2>
+<h2 align="center">🧮 About Me</h2>
  <p align="center">
   <a href="https://github.com/ShanaazAhamed" target="blank"><img align="center" 
      src="https://badges.pufler.dev/visits/ShanaazAhamed/ShanaazAhamed?style=for-the-badge&color=e74c3c&logo=github&label=Spying+Counter"
