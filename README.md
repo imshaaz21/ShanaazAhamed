@@ -1,11 +1,11 @@
 <div align="center">
-<h1 align="center">Hi <img width="35" src="https://github.com/ShanaazAhamed/ShanaazAhamed/tree/main/img/waving.gif">, I'm Shanaaz Ahamed</h1>
+<h1 align="center">Hi <img width="35" src="https://github.com/ShanaazAhamed/ShanaazAhamed/blob/main/img/waving.gif">, I'm Shanaaz Ahamed</h1>
 <h4 align="center">a freelance developer an also a Computer Science & Engineering students at University of Moratuwa</h4>
 </div>
 
 <div align="center">
   <a href="https://github.com/ShanaazAhamed">
-  <img  src="https://github.com/ShanaazAhamed/ShanaazAhamed/tree/main/img/grid-snake.svg"
+  <img  src="https://github.com/ShanaazAhamed/ShanaazAhamed/blob/main/img/snake.svg"
        alt="snake" /></a>
 </div>
 
