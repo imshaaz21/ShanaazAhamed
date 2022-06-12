@@ -18,7 +18,7 @@
       <br/>
       <a href="https://www.linkedin.com/in/shanaazahamed/" target="blank"><img align="center"
          src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
-         alt="Shanaaz" height="30" target="_blank"/></a>
+         alt="Shanaaz" height="30" target="blank"/></a>
       <a href="mailto:shanaaz.19@cse.mrt.ac.lk" target="blank"><img align="center"
          src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
          alt="Shanaaz" height="30"/></a>
@@ -26,6 +26,32 @@
 
   </samp>
 </div>
+</details>
+
+<details> 
+  <summary>💻 GitHub Profile</summary>
+  <div>
+    <h2 align="center"> 📊 Github stats </h2>
+      <br/>
+        <p align="center">
+          <a href="https://github.com/ShanaazAhamed/">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShanaazAhamed&langs_count=6&theme=gruvbox&layout=compact&hide_border=true" alt="Shanaaz Ahamed :: Top Langs" /></a>
+        </p>
+        <p align="center">
+          <a href="https://github.com/ShanaazAhamed/">
+          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=ShanaazAhamed&show_icons=true&theme=gruvbox&hide_border=true" />
+          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=ShanaazAhamed&theme=gruvbox&hide_border=true" />
+          </a>
+       </p>
+     <br>
+  </div>    
+</details>
+
+<details>
+  <summary>📈 Activity Graph</summary>
+  <br/>
+  <h2 align="center"> my current activity </h2>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Shanaaz Ahamed's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=ShanaazAhamed&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" /></a>
 </details>
 
 <details>
@@ -49,30 +75,4 @@
      alt="repos" /></a>
  </p>
 </div>
-</details>
-
-<details> 
-  <summary>💻 GitHub Profile Stats</summary>
-  <div>
-    <h2 align="center"> 📊 Github stats </h2>
-      <br/>
-        <p align="center">
-          <a href="https://github.com/ShanaazAhamed/">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShanaazAhamed&langs_count=6&theme=gruvbox&layout=compact&hide_border=true" alt="Shanaaz Ahamed :: Top Langs" /></a>
-        </p>
-        <p align="center">
-          <a href="https://github.com/ShanaazAhamed/">
-          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=ShanaazAhamed&show_icons=true&theme=gruvbox&hide_border=true" />
-          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=ShanaazAhamed&theme=gruvbox&hide_border=true" />
-          </a>
-       </p>
-     <br>
-  </div>    
-</details>
-
-<details>
-  <summary>📈 Activity Graph</summary>
-  <br/>
-  <h2 align="center"> my current activity </h2>
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Shanaaz Ahamed's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=ShanaazAhamed&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" /></a>
 </details>
