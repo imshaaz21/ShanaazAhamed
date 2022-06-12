@@ -18,7 +18,7 @@
       <br/>
       <a href="https://www.linkedin.com/in/shanaazahamed/" target="blank"><img align="center"
          src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
-         alt="Shanaaz" height="30"/></a>
+         alt="Shanaaz" height="30" target="_blank"/></a>
       <a href="mailto:shanaaz.19@cse.mrt.ac.lk" target="blank"><img align="center"
          src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
          alt="Shanaaz" height="30"/></a>
