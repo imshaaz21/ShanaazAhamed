@@ -58,14 +58,7 @@
   <summary>🧮 about</summary>
 <div>
 <h2 align="center">🧮 About Me</h2>
- <p align="center">
-  <a href="https://github.com/ShanaazAhamed" target="blank"><img align="center" 
-     src="https://badges.pufler.dev/visits/ShanaazAhamed/ShanaazAhamed?style=for-the-badge&color=e74c3c&logo=github&label=Spying+Counter"
-     alt="spying counter" /></a>
-  <a href="github.com/ShanaazAhamed" target="blank"><img align="center" 
-     src="https://badges.pufler.dev/years/ShanaazAhamed/?style=for-the-badge&color=27a4fb&logo=github&label=Account+Age"
-     alt="account age" /></a>
-  </p>
+
   <p align="center">
   <a href="github.com/ShanaazAhamed" target="blank"><img align="center" 
      src="https://badges.pufler.dev/updated/ShanaazAhamed/ShanaazAhamed?style=for-the-badge&color=ff00b4&logo=github&label=Profile+Updated"
