@@ -2,12 +2,13 @@
 <h1 align="center">Hi <img width="35" src="https://github.com/ShanaazAhamed/ShanaazAhamed/blob/main/img/waving.gif">, I'm Shanaaz Ahamed</h1>
 <h4 align="center"> Freelancer | Computer Science & Engineering Undergraduate | University of Moratuwa | Sri Lanka <img src ="https://user-images.githubusercontent.com/77115237/190556825-ff01bd2f-ffd3-4b49-a88c-9e44f646aa5c.png" width="20px" height = "auto">  </h4>
 </div>
+<!--
 <div align="center">
   <a href="https://github.com/ShanaazAhamed">
   <img  src="https://github.com/ShanaazAhamed/ShanaazAhamed/blob/main/img/snake.svg"
        alt="snake" /></a>
 </div>
-
+-->
 <details>
   <summary>☎️ Contact Me</summary>
 <div>
