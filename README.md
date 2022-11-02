@@ -13,7 +13,7 @@
   <summary>📱 Contact Me</summary>
 <div>
   <samp>
-    <h3 align="center">you can reach me by 😎</h3>
+    <h3 align="center">you can reach me by 🏃🏽‍♂️</h3>
     <p align="center">
       <br/>
       <a href="https://www.linkedin.com/in/shanaazahamed/" target="blank"><img align="center"
