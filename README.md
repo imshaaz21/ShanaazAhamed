@@ -48,9 +48,9 @@
 </details>
 
 <details>
-  <summary>Activity Graph 📈</summary>
+  <summary>📈 Activity Graph</summary>
   <br/>
-  <h2 align="center"> my current activity </h2>
+  <h2 align="center"> my current activity 💹</h2>
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Shanaaz Ahamed's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=ShanaazAhamed&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" /></a>
 </details>
 
