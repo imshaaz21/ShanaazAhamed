@@ -10,10 +10,10 @@
 </div>
 -->
 <details>
-  <summary>☎️ Contact Me</summary>
+  <summary>📱 Contact Me</summary>
 <div>
   <samp>
-    <h2 align="center">😎 you can reach me by:</h2>
+    <h3 align="center">you can reach me by 😎</h3>
     <p align="center">
       <br/>
       <a href="https://www.linkedin.com/in/shanaazahamed/" target="blank"><img align="center"
@@ -31,7 +31,7 @@
 <details> 
   <summary>💻 GitHub Profile</summary>
   <div>
-    <h2 align="center"> 📊 Github</h2>
+    <h3 align="center">Github 📊</h3>
       <br/>
         <p align="center">
           <a href="https://github.com/ShanaazAhamed/">
@@ -48,7 +48,7 @@
 </details>
 
 <details>
-  <summary>📈 Activity Graph</summary>
+  <summary>Activity Graph 📈</summary>
   <br/>
   <h2 align="center"> my current activity </h2>
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Shanaaz Ahamed's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=ShanaazAhamed&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" /></a>
