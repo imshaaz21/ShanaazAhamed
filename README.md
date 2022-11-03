@@ -48,6 +48,16 @@
 </details>
 
 <details>
+  <summary>👨‍💻 Skills</summary>
+  <br/>
+  <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,flutter,js,ts,github,c,c#,java,linux,mysql,firebase,nodejs,express,react,php,py,tensorflow" />
+  </a>
+</p>
+</details>
+
+<details>
   <summary>📈 Activity Graph</summary>
   <br/>
   <h2 align="center"> My Current Activity 🤟</h2>
