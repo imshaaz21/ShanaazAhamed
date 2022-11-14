@@ -52,8 +52,10 @@
   <br/>
   <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,c,java,linux,mysql,firebase,nodejs,express,react,php,flutter,js,ts,py,tensorflow" />
+    <img src="https://skillicons.dev/icons?i=git,c,java,linux,mysql,firebase,nodejs,express,react,php,flutter,js,ts,py,tensorflow,flask&perline=8" />
+    
   </a>
+<!--     [![My Skills](https://skillicons.dev/icons?i=git,c,java,linux,mysql,firebase,nodejs,express,react,php,flutter,js,ts,py,tensorflow,flask&perline=8)](https://skillicons.dev) -->
 </p>
 </details>
 
