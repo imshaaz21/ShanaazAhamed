@@ -31,7 +31,7 @@
 <details> 
   <summary>💻 GitHub Profile</summary>
   <div>
-    <h3 align="center">Github 🧑‍💻</h3>
+    <h3 align="center">💻 Github</h3>
       <br/>
         <p align="center">
           <a href="https://github.com/ShanaazAhamed/">
