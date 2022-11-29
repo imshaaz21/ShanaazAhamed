@@ -35,12 +35,14 @@
       <br/>
         <p align="center">
           <a href="https://github.com/ShanaazAhamed/">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShanaazAhamed&langs_count=6&theme=gruvbox&layout=compact&hide_border=true" alt="Shanaaz Ahamed :: Top Langs" /></a>
+<!--           <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShanaazAhamed&langs_count=6&theme=gruvbox&layout=compact&hide_border=true" alt="Shanaaz Ahamed :: Top Langs" /> -->
+          <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ShanaazAhamed&theme=onedark&show_icons=true&layout=compact"/>
+          </a>
         </p>
         <p align="center">
           <a href="https://github.com/ShanaazAhamed/">
-          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=ShanaazAhamed&show_icons=true&theme=gruvbox&hide_border=true" />
-          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=ShanaazAhamed&theme=gruvbox&hide_border=true" />
+          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=ShanaazAhamed&show_icons=true&theme=onedark&hide_border=true" />
+          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=ShanaazAhamed&theme=onedark&hide_border=true" />
           </a>
        </p>
      <br>
