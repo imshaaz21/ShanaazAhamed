@@ -35,7 +35,7 @@
       <br/>
         <p align="center">
           <a href="https://github.com/ShanaazAhamed/">
-          <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ShanaazAhamed&theme=dracula&show_icons=true&layout=compact"/>
+          <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ShanaazAhamed&theme=dracula&show_icons=true&layout=compact&hide_border=true"/>
           </a>
         </p>
         <p align="center">
