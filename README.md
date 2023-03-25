@@ -1,11 +1,11 @@
 <div align="center">
-<h1 align="center">Hi <img width="35" src="https://github.com/ShanaazAhamed/ShanaazAhamed/blob/main/img/waving.gif">, I'm M. A. S. Ahamed</h1>
+<h1 align="center">Hi <img width="35" src="https://github.com/imshaaz21/ShanaazAhamed/blob/main/img/waving.gif">, I'm M. A. S. Ahamed</h1>
 <h4 align="center">Computer Science & Engineering Undergraduate | University of Moratuwa | Sri Lanka <img src ="https://user-images.githubusercontent.com/77115237/190556825-ff01bd2f-ffd3-4b49-a88c-9e44f646aa5c.png" width="20px" height = "auto">  </h4>
 </div>
 <!--
 <div align="center">
-  <a href="https://github.com/ShanaazAhamed">
-  <img  src="https://github.com/ShanaazAhamed/ShanaazAhamed/blob/main/img/snake.svg"
+  <a href="https://github.com/imshaaz21">
+  <img  src="https://github.com/imshaaz21/ShanaazAhamed/blob/main/img/snake.svg"
        alt="snake" /></a>
 </div>
 -->
@@ -35,13 +35,13 @@
       <br/>
         <p align="center">
           <a href="https://github.com/ShanaazAhamed/">
-          <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ShanaazAhamed&theme=dracula&show_icons=true&layout=compact&hide_border=true"/>
+          <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=imshaaz21&theme=dracula&show_icons=true&layout=compact&hide_border=true"/>
           </a>
         </p>
         <p align="center">
           <a href="https://github.com/ShanaazAhamed/">
-          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=ShanaazAhamed&show_icons=true&theme=dracula&hide_border=true" />
-          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=ShanaazAhamed&theme=dracula&hide_border=true" />
+          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=imshaaz21&show_icons=true&theme=dracula&hide_border=true" />
+          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=imshaaz21&theme=dracula&hide_border=true" />
           </a>
        </p>
      <br>
@@ -64,6 +64,6 @@
   <summary>📈 Activity Graph</summary>
   <br/>
   <h2 align="center"> My Current Activity 🤟</h2>
-  <img alt="Shanaaz Ahamed's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=ShanaazAhamed&theme=dracula"/>
+  <img alt="Shanaaz Ahamed's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=imshaaz21&theme=dracula"/>
 </details>
 
