@@ -3,6 +3,7 @@
 <h4 align="center">Computer Science & Engineering Undergraduate | University of Moratuwa | Sri Lanka <img src ="https://user-images.githubusercontent.com/77115237/190556825-ff01bd2f-ffd3-4b49-a88c-9e44f646aa5c.png" width="20px" height = "auto">  </h4>
   <a href="https://imshaaz21.github.io/portfolio/">Vsit My Site 🌐</a>
 </div>
+<br>
 <!--
 <div align="center">
   <a href="https://github.com/imshaaz21">
@@ -10,6 +11,11 @@
        alt="snake" /></a>
 </div>
 -->
+<a href="https://holopin.io/@imshaaz21">
+  <img src="https://holopin.me/imshaaz21" alt="An image of @imshaaz21's Holopin badges, which is a link to view their full Holopin profile">
+</a>
+
+
 <details>
   <summary>📱 Contact Me</summary>
 <div>
