@@ -4,11 +4,11 @@
   <a href="https://imshaaz21.github.io/portfolio/">Vsit My Site 🌐</a>
 </div>
 <br>
-<div align="center">
+<!-- <div align="center">
   <a href="https://github.com/imshaaz21">
   <img  src="https://github.com/imshaaz21/imshaaz21/blob/main/img/snake.svg"
        alt="snake" /></a>
-</div>
+</div> -->
 <!-- <a href="https://holopin.io/@imshaaz21">
   <img src="https://holopin.me/imshaaz21" alt="An image of @imshaaz21's Holopin badges, which is a link to view their full Holopin profile">
 </a> -->
