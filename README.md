@@ -11,9 +11,9 @@
        alt="snake" /></a>
 </div>
 -->
-<a href="https://holopin.io/@imshaaz21">
+<!-- <a href="https://holopin.io/@imshaaz21">
   <img src="https://holopin.me/imshaaz21" alt="An image of @imshaaz21's Holopin badges, which is a link to view their full Holopin profile">
-</a>
+</a> -->
 
 
 <details>
