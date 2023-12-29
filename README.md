@@ -69,6 +69,6 @@
   <summary>📈 Activity Graph</summary>
   <br/>
   <h2 align="center"> My Current Activity 🤟</h2>
-  <img alt="Shanaaz Ahamed's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=imshaaz21&theme=dracula"/>
+  <img alt="Shanaaz Ahamed's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=imshaaz21&theme=dracula"/>
 </details>
 
