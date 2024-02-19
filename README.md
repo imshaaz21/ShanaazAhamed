@@ -14,6 +14,7 @@
 </a> -->
 
 
+
 <details>
   <summary>📱 Contact Me</summary>
 <div>
@@ -51,6 +52,16 @@
        </p>
      <br>
   </div>    
+</details>
+
+<details>
+  <summary>🔢 Visitor Count</summary>
+  <samp>
+    <p align="center"> 
+  <img src="https://profile-counter.glitch.me/imshaaz21/count.svg" />
+</p>
+
+  </samp>
 </details>
 
 <details>
