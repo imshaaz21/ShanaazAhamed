@@ -4,7 +4,7 @@
 
 ### Final Year Computer Science & Engineering Undergraduate | University of Moratuwa | Sri Lanka 🇱🇰 <img src ="https://user-images.githubusercontent.com/77115237/190556825-ff01bd2f-ffd3-4b49-a88c-9e44f646aa5c.png" width="20px" height = "auto">  
 
-🔗 Explore more about me on [🌐 Dive In](https://imshaaz21.github.io)!
+🔗 Explore more about me on [🌐](https://imshaaz21.github.io)!
 
 </div>
 
