@@ -5,11 +5,12 @@
 ### Final Year Computer Science & Engineering Undergraduate | University of Moratuwa | Sri Lanka 🇱🇰 <img src ="https://user-images.githubusercontent.com/77115237/190556825-ff01bd2f-ffd3-4b49-a88c-9e44f646aa5c.png" width="20px" height = "auto">  
 
 🔗 Visit My Website [🌐 Click here](https://imshaaz21.github.io)!
-
+<!-- 
 ___
 🌟 **For freelance work**, feel free to reach out to me via email: [✉️](mailto:shanaazahamed21@gmail.com)
 
 **Let's create something amazing together!** 💼💡
+ -->
 </div>
 
 <br>
