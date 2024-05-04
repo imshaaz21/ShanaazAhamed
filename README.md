@@ -6,7 +6,7 @@
 
 🔗 Visit My Website [🌐 Click here](https://imshaaz21.github.io)!
 
-<hr/>
+___
 🌟 **For freelance work**, feel free to reach out to me via email: [✉️](mailto:shanaazahamed21@gmail.com)
 
 **Let's create something amazing together!** 💼💡
