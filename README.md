@@ -55,6 +55,7 @@ ___
           </a>
        </p>
      <br>
+     <img src="https://profile-counter.glitch.me/imshaaz21/count.svg" alt="Visitor Count">
   </div>    
 </details>
 
