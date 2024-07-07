@@ -55,8 +55,16 @@ ___
           </a>
        </p>
      <br>
-     <img src="https://profile-counter.glitch.me/imshaaz21/count.svg" alt="Visitor Count">
+<!--      <img src="https://profile-counter.glitch.me/imshaaz21/count.svg" alt="Visitor Count"> -->
   </div>    
+</details>
+<details>
+<summary><b>🧔🏽 Profile</b> 🧔🏽</summary>
+<div align="center"> 
+    <a href="https://github.com/imshaaz21" target="_blank"><img alt="ahzem" src="https://badges.pufler.dev/visits/imshaaz21/ahzem?logo=GitHub&label=visits&color=warning&logoColor=white&style=flat-square"/></a>
+</div>
+
+ 
 </details>
 
 <details>
