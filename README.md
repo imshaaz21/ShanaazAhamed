@@ -16,7 +16,7 @@ ___
 <br>
 
 <details>
-  <summary>📱 <b>Contact Me</b> 📱</summary>
+  <summary>📱 <b>Contact Me</b></summary>
 <div>
   <samp>
     <h3 align="center">you can reach me by 🏃🏽‍♂️</h3>
@@ -35,7 +35,7 @@ ___
 </details>
 
 <details> 
-  <summary>💻 <b>GitHub Profile</b> 💻</summary>
+  <summary>💻 <b>GitHub Profile</b></summary>
   <div>
     <h3 align="center">💻 Github</h3>
       <br/>
@@ -58,17 +58,17 @@ ___
 <!--      <img src="https://profile-counter.glitch.me/imshaaz21/count.svg" alt="Visitor Count"> -->
   </div>    
 </details>
-<details>
+<!-- <details>
 <summary><b>🧔🏽 Profile</b> 🧔🏽</summary>
 <div align="center"> 
     <a href="https://github.com/imshaaz21" target="_blank"><img alt="ahzem" src="https://badges.pufler.dev/visits/imshaaz21/ahzem?logo=GitHub&label=visits&color=warning&logoColor=white&style=flat-square"/></a>
-</div>
-
+</div> 
+ -->
  
 </details>
 
 <details>
-  <summary>📈 <b>Activity Graph</b> 📈</summary>
+  <summary>📈 <b>Activity Graph</b></summary>
   <br/>
   <h2 align="center"> My Current Activity 🤟</h2>
   <img alt="Shanaaz Ahamed's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=imshaaz21&theme=dracula"/>
