@@ -22,7 +22,7 @@ ___
     <h3 align="center">you can reach me by 🏃🏽‍♂️</h3>
     <p align="center">
       <br/>
-      <a href="https://www.linkedin.com/in/imshaaaz/" target="blank"><img align="center"
+      <a href="https://www.linkedin.com/in/imshaaz/" target="blank"><img align="center"
          src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
          alt="Shanaaz" height="30" target="blank"/></a>
       <a href="mailto:shanaaz.19@cse.mrt.ac.lk" target="blank"><img align="center"
@@ -36,28 +36,24 @@ ___
 
 <details> 
   <summary>💻 <b>GitHub Profile</b></summary>
-  <div>
-    <h3 align="center">💻 Github</h3>
-      <br/>
-        <p align="center">
-          <a href="https://github.com/ShanaazAhamed/">
-          <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=imshaaz21&theme=dracula&show_icons=true&layout=compact&hide_border=true"/>
-          </a>
-        </p>
-        <p align="center">
-          <a href="https://github.com/ShanaazAhamed/">
-          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=imshaaz21&show_icons=true&theme=dracula&hide_border=true" />
-          </a>
-       </p>
-     <p align="center">
-          <a href="https://github.com/ShanaazAhamed/">
-          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=imshaaz21&theme=dracula&hide_border=true" />
-          </a>
-       </p>
-     <br>
-<!--      <img src="https://profile-counter.glitch.me/imshaaz21/count.svg" alt="Visitor Count"> -->
+  <div align="center">
+    <h3>💻 GitHub</h3>
+    <p>
+      <a href="https://github.com/ShanaazAhamed/">
+        <img height="150em" src="https://github-readme-stats.vercel.app/api?username=imshaaz21&show_icons=true&theme=dracula&hide_border=true" />
+      </a>
+     <a href="https://github.com/ShanaazAhamed/">
+        <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=imshaaz21&theme=dracula&hide_border=true" />
+      </a>
+    </p>
+    <p>
+       <a href="https://github.com/ShanaazAhamed/">
+        <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imshaaz21&theme=dracula&show_icons=true&layout=compact&hide_border=true"/>
+      </a>
+    </p>
   </div>    
 </details>
+
 <!-- <details>
 <summary><b>🧔🏽 Profile</b> 🧔🏽</summary>
 <div align="center"> 
