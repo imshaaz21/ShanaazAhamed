@@ -12,7 +12,7 @@ ___
 
 **Let's create something amazing together!** 💼💡
  -->
- ![](https://komarev.com/ghpvc/?username=imshaaz21&style=flat-square)
+ ![](https://komarev.com/ghpvc/?username=imshaaz21&style=flat-square) ![GitHub Repo stars](https://img.shields.io/github/stars/imshaaz21?style=social)
 
 </div>
 
