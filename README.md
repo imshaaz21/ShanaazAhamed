@@ -5,12 +5,15 @@
 ### Final Year Computer Science & Engineering Undergraduate | University of Moratuwa | Sri Lanka 🇱🇰 <img src ="https://user-images.githubusercontent.com/77115237/190556825-ff01bd2f-ffd3-4b49-a88c-9e44f646aa5c.png" width="20px" height = "auto">  
 
 🔗 Visit My portfolio [Click here](https://imshaaz21.github.io)!
+
 <!-- 
 ___
 🌟 **For freelance work**, feel free to reach out to me via email: [✉️](mailto:shanaazahamed21@gmail.com)
 
 **Let's create something amazing together!** 💼💡
  -->
+ ![](https://komarev.com/ghpvc/?username=imshaaz21&style=flat-square)
+
 </div>
 
 <br>
@@ -38,6 +41,7 @@ ___
   <summary>💻 <b>GitHub Profile</b></summary>
   <div align="center">
     <h3>💻 GitHub</h3>
+    
     <p>
       <a href="https://github.com/ShanaazAhamed/">
         <img height="150em" src="https://github-readme-stats.vercel.app/api?username=imshaaz21&show_icons=true&theme=dracula&hide_border=true" />
