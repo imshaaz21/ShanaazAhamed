@@ -41,7 +41,6 @@ ___
   <summary>💻 <b>GitHub Profile</b></summary>
   <div align="center">
     <h3>💻 GitHub</h3>
-    
     <p>
       <a href="https://github.com/ShanaazAhamed/">
         <img height="150em" src="https://github-readme-stats.vercel.app/api?username=imshaaz21&show_icons=true&theme=dracula&hide_border=true" />
