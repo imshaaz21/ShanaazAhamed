@@ -45,9 +45,6 @@ ___
       <a href="https://github.com/ShanaazAhamed/">
         <img height="150em" src="https://github-readme-stats.vercel.app/api?username=imshaaz21&show_icons=true&theme=dracula&hide_border=true" />
       </a>
-     <a href="https://github.com/ShanaazAhamed/">
-        <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=imshaaz21&theme=dracula&hide_border=true" />
-      </a>
     </p>
     <p>
        <a href="https://github.com/ShanaazAhamed/">
@@ -57,14 +54,6 @@ ___
   </div>    
 </details>
 
-<!-- <details>
-<summary><b>🧔🏽 Profile</b> 🧔🏽</summary>
-<div align="center"> 
-    <a href="https://github.com/imshaaz21" target="_blank"><img alt="ahzem" src="https://badges.pufler.dev/visits/imshaaz21/ahzem?logo=GitHub&label=visits&color=warning&logoColor=white&style=flat-square"/></a>
-</div> 
- -->
- 
-</details>
 
 <details>
   <summary>📈 <b>Activity Graph</b></summary>
